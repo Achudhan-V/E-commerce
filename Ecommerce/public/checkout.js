@@ -1,5 +1,5 @@
 // This is your test publishable API key.
-const stripe = Stripe("pk_test_51OTdglSEqi8lAh8n1bYQE2wLdMYOmgJcBxkgjfAI8ahkxx6r9ohV5xOgYVBDa5xr8Z097DODCd6kyatO4EK2vFnd00thPYovvm");
+const stripe = Stripe("my stripe api key"); // i wont share here lol
 
 let elements;
 
