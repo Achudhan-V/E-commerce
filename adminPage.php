@@ -18,7 +18,7 @@
   
   
   <div class="header ">
-    <h1 style="text-align: center;">Admin Dashboard</h1>
+    <h1 style="text-align: center;">Admin Dashboard Page</h1>
     <div>
         <button onclick="window.history.back()" >Home</button>
         <a href="index.php" style="float: right;">Logout</a>
